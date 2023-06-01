@@ -23,3 +23,5 @@ For example the interrupt with the relay isnt really beneficial.
 
 Use this for educational purposes only
 
+Check out the example
+https://www.youtube.com/watch?v=x5Lwo2LpYW8
